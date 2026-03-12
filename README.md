@@ -60,3 +60,61 @@ Apesar de ser um jogo simples, ele representa meu **primeiro passo no desenvolvi
 # 🕹️ Gameplay
 
 Objetivo de cada fase:
+
+
+Evitar todas as ratoeiras
+
+Coletar os 5 queijos
+
+Avançar para a próxima fase
+
+
+Se o jogador tocar em uma ratoeira, a fase recomeça.
+
+---
+
+# 🧱 Tecnologias utilizadas
+
+- **GameMaker**
+- **GML (GameMaker Language)**
+- **Pixel Art**
+
+---
+
+# 🚀 Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei conceitos importantes como:
+
+- movimentação de personagem
+- colisões
+- troca de rooms (fases)
+- lógica de inimigos
+- interface básica
+- organização de projeto
+
+---
+
+# 📸 Preview
+
+
+
+
+
+---
+
+# 👨‍💻 Autor
+
+Desenvolvido por **Rafael Tunes Mathiensen**
+
+Este projeto faz parte do meu aprendizado em:
+
+- programação
+- desenvolvimento de jogos
+- criação de arte para jogos
+- lógica de gameplay
+
+---
+
+# 📜 Licença
+
+Este projeto foi criado para fins de **estudo e aprendizado**.
