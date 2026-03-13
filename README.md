@@ -1,34 +1,68 @@
 # 🧀 Cheddar Chase
 
 <p align="center">
-  <img src="logo.png" width="300">
+  <img src="logo.jpeg" width="320">
 </p>
 
-**Cheddar Chase** é um jogo **2D em pixel art** desenvolvido utilizando a engine **GameMaker**.
-
-Este projeto foi criado como meu **primeiro jogo**, com o objetivo de aprender a engine, entender os fundamentos do desenvolvimento de jogos 2D e experimentar todo o processo de criação de um jogo **do zero**.
-
-Todo o conteúdo do jogo foi criado por mim, incluindo:
-
-- 🎨 Sprites
-- 💻 Programação
-- 🧠 Lógica do jogo
-- 🎮 Estrutura das fases
+<p align="center">
+  <b>Um jogo 2D em pixel art sobre um rato em busca de queijo enquanto evita armadilhas perigosas.</b>
+</p>
 
 ---
 
 # 🎮 Sobre o jogo
 
+**Cheddar Chase** é um jogo **2D em pixel art** desenvolvido utilizando a engine **GameMaker**.
+
 No jogo você controla um rato que precisa coletar **5 pedaços de queijo** espalhados pela fase enquanto desvia de **ratoeiras perigosas**.
+
+O desafio é **pegar todos os queijos sem tocar em nenhuma ratoeira**.
 
 Existem dois tipos de obstáculos:
 
 - 🪤 **Ratoeiras fixas**
 - 🪤 **Ratoeiras móveis**
 
-O desafio é **pegar todos os queijos sem tocar em nenhuma ratoeira**.
+Ao coletar todos os queijos da fase, o jogador **avança para a próxima**.
 
-Ao coletar todos os queijos da fase, o jogador avança para a próxima.
+---
+
+# 📸 Screenshots
+
+<p align="center">
+  <img src="images/game_print1.png" width="700">
+</p>
+
+<p align="center">
+  <img src="images/game_print2.png" width="700">
+</p>
+
+<p align="center">
+  <img src="images/game_print3.png" width="700">
+</p>
+
+---
+
+# 🎮 Controles
+
+| Tecla              | Ação                       |
+| ------------------ | -------------------------- |
+| ⬆⬇⬅➡               | Movimentar o rato          |
+| **Espaço**         | Iniciar o jogo             |
+| **F11**            | Alternar tela cheia        |
+| **Qualquer tecla** | Jogar novamente após o fim |
+
+---
+
+# 🕹️ Gameplay
+
+Objetivo de cada fase:
+
+- Evitar todas as ratoeiras
+- Coletar **os 5 queijos**
+- Avançar para a próxima fase
+
+Se o jogador tocar em uma ratoeira, a fase **recomeça**.
 
 ---
 
@@ -39,50 +73,11 @@ Ao coletar todos os queijos da fase, o jogador avança para a próxima.
 3. Abra a pasta extraída.
 4. Execute o arquivo:
 
-
+```
 Cheddar Chase.exe
-
+```
 
 O jogo abrirá normalmente e você já poderá jogar.
-
----
-
-# 🎯 Objetivo do projeto
-
-Este jogo foi criado principalmente para:
-
-- Aprender a utilizar a engine **GameMaker**
-- Entender a lógica de jogos **2D**
-- Praticar **programação de gameplay**
-- Criar **sprites e assets próprios**
-- Experimentar o processo completo de desenvolvimento de um jogo
-
-Apesar de ser um jogo simples, ele representa meu **primeiro passo no desenvolvimento de jogos**.
-
----
-
-# 🎮 Controles
-
-| Tecla | Ação |
-|------|------|
-| ⬆⬇⬅➡ | Movimentar o rato |
-| **Espaço** | Iniciar o jogo |
-| **F11** | Alternar tela cheia |
-| **Qualquer tecla** | Jogar novamente após o fim |
-
----
-
-# 🕹️ Gameplay
-
-Objetivo de cada fase:
-
-
-Evitar todas as ratoeiras
-Coletar os 5 queijos
-Avançar para a próxima fase
-
-
-Se o jogador tocar em uma ratoeira, a fase recomeça.
 
 ---
 
@@ -91,6 +86,20 @@ Se o jogador tocar em uma ratoeira, a fase recomeça.
 - **GameMaker**
 - **GML (GameMaker Language)**
 - **Pixel Art**
+
+---
+
+# 🎯 Objetivo do projeto
+
+Este jogo foi criado como meu **primeiro projeto completo de jogo**, com o objetivo de:
+
+- Aprender a utilizar a engine **GameMaker**
+- Entender a lógica de jogos **2D**
+- Praticar **programação de gameplay**
+- Criar **sprites e assets próprios**
+- Experimentar todo o processo de desenvolvimento de um jogo **do zero**
+
+Apesar de ser um jogo simples, ele representa meu **primeiro passo no desenvolvimento de jogos**.
 
 ---
 
@@ -104,12 +113,6 @@ Durante o desenvolvimento deste projeto, pratiquei conceitos importantes como:
 - lógica de inimigos
 - interface básica
 - organização de projeto
-
----
-
-# 📸 Preview
-
-*(adicione aqui screenshots ou gifs do jogo)*
 
 ---
 
