@@ -32,6 +32,21 @@ Ao coletar todos os queijos da fase, o jogador avança para a próxima.
 
 ---
 
+# 💾 Como instalar e jogar
+
+1. Baixe o arquivo **.zip** disponível no repositório.
+2. Extraia o arquivo em qualquer pasta do seu computador.
+3. Abra a pasta extraída.
+4. Execute o arquivo:
+
+
+Cheddar Chase.exe
+
+
+O jogo abrirá normalmente e você já poderá jogar.
+
+---
+
 # 🎯 Objetivo do projeto
 
 Este jogo foi criado principalmente para:
@@ -63,9 +78,7 @@ Objetivo de cada fase:
 
 
 Evitar todas as ratoeiras
-
 Coletar os 5 queijos
-
 Avançar para a próxima fase
 
 
@@ -96,9 +109,7 @@ Durante o desenvolvimento deste projeto, pratiquei conceitos importantes como:
 
 # 📸 Preview
 
-
-
-
+*(adicione aqui screenshots ou gifs do jogo)*
 
 ---
 
